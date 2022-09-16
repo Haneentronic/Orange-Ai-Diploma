@@ -1,0 +1,3 @@
+C:/Users/Haneen Ibrahim/Documents/ClionProjects/Employees/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/Haneen Ibrahim/Documents/ClionProjects/Employees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Haneen Ibrahim/Documents/ClionProjects/Employees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
