@@ -1,0 +1,21 @@
+,,Price,Price to earnings ratio (P/E),Unnamed: 0_level_0
+0,Company,,,2017-06-05
+0,Facebook,155.0,37.1,
+0,Google,955.0,32.0,
+0,Microsoft,66.0,30.31,
+1,Company,,,2017-06-06
+1,Facebook,150.0,36.98,
+1,Google,987.0,31.3,
+1,Microsoft,69.0,30.56,
+2,Company,,,2017-06-07
+2,Facebook,153.0,36.78,
+2,Google,963.0,31.7,
+2,Microsoft,62.0,30.46,
+3,Company,,,2017-06-08
+3,Facebook,155.0,36.11,
+3,Google,1000.0,31.2,
+3,Microsoft,61.0,30.11,
+4,Company,,,2017-06-09
+4,Facebook,156.0,37.07,
+4,Google,1012.0,30.0,
+4,Microsoft,66.0,31.0,
