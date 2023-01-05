@@ -34,7 +34,7 @@ This course content is
  <h2 align="center">It's not just a diploma, it's the beginning of a new and powerful journey </h2>
   <p align="center"> 
   
-![Logo](https://media-exp1.licdn.com/dms/image/C4D22AQFu_saXhVdKWA/feedshare-shrink_2048_1536/0/1667831728114?e=1672876800&v=beta&t=suYAyPQzk1gk8X1v9A_OTCbLQZx1aFu1xHhBoli4bi8)
+![Logo](https://user-images.githubusercontent.com/91877743/210874488-bde6e9e2-6518-431b-aced-c4196a0f88e6.jpg)
 
 
   
