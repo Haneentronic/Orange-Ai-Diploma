@@ -1,4 +1,4 @@
-<h1 align="center">Ai Dibloma</h1>
+<h1 align="center">Ai Diploma</h1>
 
 
 
